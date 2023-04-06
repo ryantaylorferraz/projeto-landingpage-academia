@@ -147,16 +147,16 @@ main {
     content: ' ';
     border-radius: 20px;
     bottom: 0;
-    left: 0;
+    left: 0px;
     position: absolute;
-    width: 0;
+    width: 0px;
     height: 60px;
     background-color: rgb(61, 61, 61);
     z-index: -1;
     transition: 1s;
 }
 
-.btnsbutton:hover:before {
+.btns button:hover:before {
     width: 100%;
   
 }

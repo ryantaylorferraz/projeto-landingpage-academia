@@ -156,8 +156,9 @@ main {
     transition: 1s;
 }
 
-.btns button:hover:before {
-    width: 100%;
+.btnsbutton:hover:before {
+    width: 100%;
+  
 }
 
 
